@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: Furk.Club
+markdown:    kramdown                                                           
+kramdown:                                                                       
+   input: GFM
+   hard_wrap: false
