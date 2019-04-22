@@ -1,5 +1,6 @@
 ---
-title: 首页
+title: 2首页
+layout: post
 ---
 
 ## 22222222222
