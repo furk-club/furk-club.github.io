@@ -7,13 +7,8 @@
 
 ## 2.下载客户端
 
-### 移动平台
-
 * Android
 * IOS
-
-### 桌面平台
-
 * Windows
 * MacOS
 * Linux
